@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.header_content{
+	background: url(../img/bg-header-content.png), lightgray 50% / cover no-repeat;
+	height: 140vh;
+	width: 100%;
+	padding: 0;
+}
+
+.header__name{
+	font-family: 'Raleway', sans-serif;
+	font-size:28px;
+	font-weight: 600;
+	margin-right: 360px;
+}
+
+.header__title{
+	color: #FFBFBF;
+	font-size: 64px;
+	font-weight: 800;
+	font-family: 'Raleway', sans-serif;
+	display: flex;
+	justify-content: center;
+	padding-top: 350px;
+	width:150px;
+	margin-left:550px ;
+	padding-bottom: 75px;
+	text-align: center;
+}
+
+
+a{
+	text-decoration: none;
+	color:black;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.icon{
+	display: flex;
+	justify-content:center;
+	padding-left: 575px;
+	width: 100px;
+	height: 100px;
+	padding-top: 75px;
+}
+
+.nav-menu{
+	display:flex;
+	justify-content: flex-end;
+	margin-top: 0;
+	padding-top: 0;
+
+}
+
+.nav{
+	margin-top: 10px;
+	margin-right: 40px;
+
+
+}
+
+#main__title{
+	display: flex;
+	justify-content: center;
+	font-size: 44px;
+	font-weight: 600;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.main__text{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	width:640px;
+
+	display: flex;
+	justify-content: center;
+	margin-left: 307px;
+
+}
+
+.rules{
+	background:#7ED754;
+}
+
+#section__title{
+	display: flex;
+	justify-content: center;
+	color: #FFBFBF;
+	text-align: center;
+	font-family: Raleway;
+	font-size: 44px;
+	font-weight: 600;
+}
+
+
+
+.rule-1{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background:#FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+}
+
+.rule-2{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+}
+
+.rule-3{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+}
+
+.rule-4{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+
+}
+
+.rule-5{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+
+}
+
+.rule-6{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 528px;
+	height: 135px;
+	border-radius:35px;
+	padding: 10px;
+
+}
+
+.one-part-rule{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 40px;
+
+}
+
+#section-2__title{
+	display: flex;
+	justify-content: center;
+	color: #000;
+	text-align: center;
+	font-family: Raleway;
+	font-size: 44px;
+	font-weight: 600;
+}
+
+.the-essence-of-the-competition{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 400;
+
+}
+
+.question-1{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	background: #FFBFBF;
+	border-radius:35px;
+	padding: 10px;
+	width: 250px;
+	height: 60px;
+}
+
+.question-2{
+	color: #000;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	background: #FFBFBF;
+	width: 250px;
+	height: 60px;
+	border-radius:35px;
+	padding: 10px;
+}
+
+
+.quest{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.btn-1{
+	color:#000;
+	background:#7ED754;
+	font-family: Montserrat;
+	border-radius: 35px;
+	height: 50px;
+	width:200px;
+
+}
+
+.btn-2{
+	color:#000;
+	background:#7ED754;
+	font-family: Montserrat;
+	border-radius: 35px;
+	height: 50px;
+	width:200px;
+
+}
+
+.btn{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
